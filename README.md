@@ -1,3 +1,5 @@
+# Data-For-Interlayer-Frictional-Potential
+
 This file consists of four components, each of which corresponds to Figure 2 through Figure 5 in our study titled "Effect of metallicity on interlayer frictional potential energy of transition-metal dichalcogenides under normal load." Each component is labeled according to its respective figure number.
 
 Figure 2: Crystal structure (POSCAR) and band information (PROCAR) of NbS₂ and MoS₂ monolayers and bilayers;
